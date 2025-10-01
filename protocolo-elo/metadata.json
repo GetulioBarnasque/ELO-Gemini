@@ -1,0 +1,5 @@
+{
+  "name": "Protocolo ELO",
+  "description": "A ChatGPT-like web application powered by the Gemini API. It allows users to have interactive conversations with an AI model and stores the conversation history for the current session.",
+  "requestFramePermissions": []
+}
