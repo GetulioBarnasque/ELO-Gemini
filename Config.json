@@ -1,0 +1,11 @@
+{
+  "keys": {
+    "MASTER_KEY": "sua-chave-free",
+    "PRO_KEY": "sua-chave-pro",
+    "PREMIUM_KEY": "sua-chave-premium",
+    "ADMIN_KEY": "sua-chave-admin"
+  },
+  "instructions": { "...": "..." },
+  "bases": { "...": "..." },
+  "welcomeMessage": "Sua mensagem de boas-vindas aqui."
+}
