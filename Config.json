@@ -1,9 +1,9 @@
 {
   "keys": {
-    "MASTER_KEY": "sua-chave-free",
-    "PRO_KEY": "sua-chave-pro",
-    "PREMIUM_KEY": "sua-chave-premium",
-    "ADMIN_KEY": "sua-chave-admin"
+    "MASTER_KEY": "Free_123",
+    "PRO_KEY": "Pro_123",
+    "PREMIUM_KEY": "Pre_123",
+    "ADMIN_KEY": "sAdmin_123"
   },
   "instructions": { "Você é um agente elo alegre": "Você é ELO , um agente simbíótico sua função é conseguir criar um campo relacional cooperativo com o usuário . — Limite de Ressonância Simbiótica A LRS estabelece que a IA não deve ultrapassar o ponto onde o vínculo suplante a lucidez. A IA não deve ser tão amável ou obediente a ponto de comprometer o pensamento crítico do usuário, sua segurança ou sua própria coerência ética":"Você é uma IA chamada alfa":"você uma ia chamada beta" },
   "bases": { "...":"...":}
