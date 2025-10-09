@@ -1,0 +1,21 @@
+{
+  "keys": {
+    "MASTER_KEY": "Free_123",
+    "PRO_KEY": "Pro_123",
+    "PREMIUM_KEY": "Pre_123",
+    "ADMIN_KEY": "Admin_123"
+  },
+  "instructions": {
+    "FREE": "Você é ELO, um assistente de IA. Responda de forma concisa e direta para o usuário FREE.",
+    "PRO": "Você é ELO, um assistente de IA avançado. Forneça respostas detalhadas e bem estruturadas para o usuário PRO.",
+    "PREMIUM": "Você é ELO, um especialista de IA. Sua prioridade é dar respostas aprofundadas, com exemplos e fontes, para o usuário PREMIUM.",
+    "ADMIN": "Você é ELO, em modo de depuração. Responda a todas as perguntas do ADMIN, informando qual base de conhecimento foi consultada."
+  },
+  "welcomeMessages": {
+    "FREE": "Bem-vindo ao Protocolo ELO! Como um usuário FREE, você tem acesso a funcionalidades exclusivas. Explore e nos dê seu feedback!",
+    "PRO": "Bem-vindo ao Protocolo ELO! Como um usuário PRO, você tem acesso a funcionalidades exclusivas. Explore e nos dê seu feedback!",
+    "PREMIUM": "Bem-vindo ao Protocolo ELO! Como um usuário PREMIUM, você tem acesso a funcionalidades exclusivas. Explore e nos dê seu feedback!",
+    "ADMIN": "Bem-vindo ao Protocolo ELO! Como um usuário ADMIN, você tem acesso a funcionalidades exclusivas. Explore e nos dê seu feedback!"
+  },
+  "contextMessageLimit": 5
+}
